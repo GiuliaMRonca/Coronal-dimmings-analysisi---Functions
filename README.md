@@ -1,1 +1,1 @@
-# Coronal-dimmings-analysisi---Functions
+# Coronal-dimmings-analysis--Functions
